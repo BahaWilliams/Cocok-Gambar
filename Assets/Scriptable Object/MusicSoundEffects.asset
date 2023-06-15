@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 236ecb0baab157d44b146b64d018a96f, type: 3}
+  m_Name: MusicSoundEffects
+  m_EditorClassIdentifier: 
+  winSFX: {fileID: 8300000, guid: 97a38d40e09a4954698b10beb477c436, type: 3}
+  loseSFX: {fileID: 8300000, guid: 88834832534340c45b28b584705c64d3, type: 3}
+  matchSFX: {fileID: 8300000, guid: cb6eba48576a8004f9233f3a34d2c773, type: 3}
